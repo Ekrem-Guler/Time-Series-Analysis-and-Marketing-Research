@@ -52,4 +52,4 @@ Tahminleme: Günlük verideki yüksek varyans nedeniyle model haftalık (weekly)
 👤 İletişim
 Ekrem Güler
 
-E-posta: Ekrem Güler
+E-posta: ekremg006@gmail.com
